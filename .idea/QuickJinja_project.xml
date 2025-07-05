@@ -3,7 +3,7 @@
   <component name="de.achimonline.quickjinja.settings.QuickJinjaProjectSettingsState">
     <option name="settings">
       <QuickJinjaProjectSettings>
-        <option name="templateFilePath" value="$PROJECT_DIR$/Creational/factory_method_dp/vehicles/vehicle_factory.py" />
+        <option name="templateFilePath" value="$PROJECT_DIR$/Creational/singleton/main.py" />
       </QuickJinjaProjectSettings>
     </option>
   </component>
